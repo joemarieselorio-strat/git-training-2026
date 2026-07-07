@@ -1,1 +1,1 @@
-Sample feature 3
+Sample feature hotfix also
